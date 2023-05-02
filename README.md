@@ -10,6 +10,8 @@ This project is a part of 42projects. It involves creating a simple 2D game wher
 ## Ressource
 
  - [All what you will need](https://harm-smits.github.io/42docs/libs/minilibx)
+ - [use this website to chnage you png to xpm file](https://convertio.co/xpm-png/)
+ - [use this website to resize your image](https://www.iloveimg.com/resize-image/resize-png)
 
 
 
